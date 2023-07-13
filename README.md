@@ -1,11 +1,13 @@
-# Dynamics of the HomogeneousIsotropic-Universe-Metric-Perturbations-and-Lyman-alpha-Forest
+# Dynamics of the Homogeneous, Isotropic Universe: Metric, Perturbations, Lyman-alpha Forest and Fourier Transform Applications #
 
 
 
-This paper delves into the fascinating realm of cosmology, specifically focusing on the dynamics of a homogeneous and isotropic universe. The study begins by discussing the form of the metric for such a universe, employing the well-known Robertson-Walker metric. Proper distance, a fundamental concept in understanding cosmic scale, is examined in detail.
+Beginning with an examination of the fundamental metric for such a universe, known as the **Robertson-Walker metric**, the paper dives into the concept of proper distance, which plays a crucial role in understanding the cosmic scale.
 
-Moving forward, the paper explores the equations governing the expansion of the universe, shedding light on the forces and factors that drive its evolution. Cosmological perturbation theory is then introduced, providing a framework for studying the behavior of small fluctuations in the cosmic fluid. The analysis covers static and expanding space scenarios, highlighting the role of gravity in shaping the universe's structure.
+The study then proceeds to delve into the equations governing the expansion of the universe, providing insights into the forces and factors that contribute to its evolution. **Cosmological perturbation theory** is introduced as a framework for studying small fluctuations in the cosmic fluid, considering both static and expanding space scenarios and highlighting the significance of gravity in shaping the structure of the universe.
 
-The Lyman-alpha forest, a powerful tool for studying the intergalactic medium, is investigated next. The paper examines the methods and techniques employed to analyze this phenomenon, with a particular focus on the Gunn-Peterson trough, an absorption feature in the spectra of distant quasars.
+A significant portion of the paper is dedicated to investigating the Lyman-alpha forest, a powerful tool used in studying the intergalactic medium. The methods and techniques employed to analyze this phenomenon are discussed, with a particular emphasis on the Gunn-Peterson trough—an absorption feature observed in the spectra of distant quasars.
 
-Additionally, the paper explores the Fourier transform and its applications in cosmology. Basic definitions, convolution, and the discrete Fourier transform are discussed, emphasizing their relevance in analyzing cosmological data. 
+Furthermore, the paper explores the Fourier transform and its applications in cosmology. Starting with basic definitions, it covers concepts such as convolution and the discrete Fourier transform. The relevance of these mathematical tools in the analysis of cosmological data is emphasized, demonstrating their utility in extracting valuable insights from observational data.
+
+Also, I explored a bit further and added something extra in **[Codes directory](https://github.com/Riddhiman2005/Dynamics-of-Homogeneous-Isotropic-Universe-Perturbation-Lyman-alpha-Forest-FT-Applications/tree/main/Codes)** to supplement the theoretical discussions with practical implementations using the FFTW library. I've added some Python codes to plot interesting Cosmological curves. 
